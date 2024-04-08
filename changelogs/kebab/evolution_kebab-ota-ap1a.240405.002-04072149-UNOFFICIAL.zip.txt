@@ -1,0 +1,5 @@
+=======================
+     2024/04/08
+=======================
+
+Bring-back per-app Refresh rate (Settings > Display > per-app refresh rate)
