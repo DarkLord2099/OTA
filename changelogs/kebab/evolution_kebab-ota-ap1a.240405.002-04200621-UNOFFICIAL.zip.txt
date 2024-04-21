@@ -1,0 +1,13 @@
+=======================
+     2024/04/20
+=======================
+Performance improvements 
+Updated to latest sources
+Other improvements
+
+Device Sources:
+Chown display panel power status node
+Extend audio offload buffer size to 256kb > Extend buffer size for offload playback to reduce the frequency of CPU
+Don't pin camera app in memory
+Disable latch_unsignaled to save CPU cycles > improving overall smoothness of the system
+Disable kpti > It can also help increase performance by a lot in some scenarios
